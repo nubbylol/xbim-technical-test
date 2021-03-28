@@ -1,0 +1,16 @@
+﻿/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.xbim-technical-test.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\arinr\OneDrive\Documents\repos\xbim\xbim-technical-test\.idea\.idea.xbim-technical-test\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+.idea/
+obj/
+bin/
+.vs

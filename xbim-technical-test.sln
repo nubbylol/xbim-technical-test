@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xbim-technical-test", "xbim-technical-test\xbim-technical-test.csproj", "{37C4D6C5-99EC-491A-8E4E-6AC92A85207A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xbim-technical-test.NUnit", "xbim-technical-test.NUnit\xbim-technical-test.NUnit.csproj", "{8BE26009-7EB2-4745-90CD-255C2D58CE83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C4D6C5-99EC-491A-8E4E-6AC92A85207A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C4D6C5-99EC-491A-8E4E-6AC92A85207A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C4D6C5-99EC-491A-8E4E-6AC92A85207A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C4D6C5-99EC-491A-8E4E-6AC92A85207A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE26009-7EB2-4745-90CD-255C2D58CE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE26009-7EB2-4745-90CD-255C2D58CE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE26009-7EB2-4745-90CD-255C2D58CE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE26009-7EB2-4745-90CD-255C2D58CE83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40939B3C-386B-42CC-9975-0F31EEE0358C}
+	EndGlobalSection
+EndGlobal
